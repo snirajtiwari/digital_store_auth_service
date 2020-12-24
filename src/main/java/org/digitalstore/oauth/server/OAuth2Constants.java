@@ -18,8 +18,8 @@ public interface OAuth2Constants
 	String	REALM							= "SOM_REALM";
 	String	REFRESH_TOKEN					= "refresh_token";
 	String	REQUEST_TYPES					= "POST, PUT, GET, OPTIONS, DELETE";
-	String	SOM_APPLICATION					= "SOMApplication";
-	String	SOM_SECRET						= "SOMSecret";
+	String	SOM_APPLICATION					= "936ea3d1-dc2b-43bc-88fc-70f28d111dbf";
+	String	SOM_SECRET						= "DigitalSecret@123";
 	String	TRUST							= "trust";
 	String	WRITE							= "write";
 	String	CLIENT_CREDENTIALS				= "client_credentials";

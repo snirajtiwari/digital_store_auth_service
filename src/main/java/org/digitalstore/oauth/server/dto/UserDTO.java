@@ -3,7 +3,7 @@ package org.digitalstore.oauth.server.dto;
 import org.digitalstore.oauth.server.ERole;
 import org.springframework.data.mongodb.core.mapping.Document;
 
-@Document(value = "users")
+@Document(value = "user")
 public class UserDTO
 {
 
